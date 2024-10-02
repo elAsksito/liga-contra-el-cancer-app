@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">liga-contra-el-cancer-app</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_logo">Logo de la Liga Contra el Cáncer</string>
+
+    <!-- Texts Login -->
+    <string name="txtWelcome">Bienvenido</string>
+    <string name="txtSubTittleLogin">Ingresa tus credenciales</string>
+    <string name="email_hint">Ingresa tu email o DNI</string>
+    <string name="pass_hint">Ingresa tu contraseña</string>
+    <string name="forgot_pass">¿Olvidaste tu contraseña?</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_button">Registrarse</string>
+
+    <!-- Texts Appointments -->
+    <string name="app_tittle">Mis Citas</string>
+    <string name="app_code">No 163612631</string>
+    <string name="app_doctor">Allan Sagastegui H.</string>
+    <string name="app_date">2024.09.30 12:20 pm</string>
+    <string name="app_desc">Lorem ipsu blablablbalblalbalblblalbab</string>
+    <string name="app_address">Jr. Borgoño 330 Urb. El Molino, Trujillo, La Libertad</string>
+    <string name="app_more_info">Más información ></string>
+    <string name="app_new_app">Agregar Cita</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
